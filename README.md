@@ -12,11 +12,14 @@ To get all the category from the DB,
 
 ### Sample JSON Response 
 #### For Meals End-Point:
-The following JSON Response is generated 
-![Json Response for Meal.php](https://nr-production-discourse.s3.amazonaws.com/original/2X/3/3c6092be7db28059f2df450317b8bbad6941d61f.png)
+![Json Response for Meal.php](http://blacky.tech/meals/jsonresp.png)
 
+***
 #### For Category End-Point:
 The following JSON Response is generated 
+
+
+***
 
 ### For Paging 
 The above REST Api provides paging feature.use `page` parameter in the URL Request,
