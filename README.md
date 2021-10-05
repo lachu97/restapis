@@ -1,8 +1,8 @@
 # Meals DB REST API for Mobile Team Practise
 A rest apis for Mobile team for practise
-# Hey folks,Find the below endpoints for -GET Request.
+# Find the below Endpoints for -GET Request.
 ***
-## GET-Endpoint
+## GET-Endpoints
 
 To get all the Meals from the DB use the following endpoint
 `http://blacky.tech/mealsapi/meals.php`
