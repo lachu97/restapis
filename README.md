@@ -26,4 +26,4 @@ Example,`http://blacky.tech/mealsapi/meals.php?page=1 or 2 or 3 ...so on`
 ### Note
 By default the API gives 10 Entries/Meals per Request per Page
 
-Also on Android Manifest file under application tag,include `android:usesClearTextTraffic=true`, by this way Android knows that its hitting Http request instead of https.
+Also on Android Manifest file under application tag,include `android:usesClearTextTraffic=true`, by this way Android knows that its hitting Http request instead of Https.
