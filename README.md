@@ -12,11 +12,11 @@ To get all the category from the DB,
 
 ### Sample JSON Response 
 #### For Meals End-Point:
-![Json Response for Meal.php](http://blacky.tech/meals/jsonresp.png)
+![Json Response for Meals](http://blacky.tech/meals/jsonresp.png)
 
 ***
 #### For Category End-Point:
-The following JSON Response is generated 
+![Json Response for Category](http://blacky.tech/meals/catresp.png)
 
 
 ***
