@@ -20,6 +20,11 @@ To get all the category from the DB,
 
 
 ***
+***
+### For Searchig A Particular Meals from Category:
+Use the below endpoint for sorting based on Category.
+`http://blacky.tech/mealsapi/search.php?catid=15`
+Here,the catid is a required pareameter and of type Integer.
 
 ### For Paging 
 The above REST Api provides paging feature.use `page` parameter in the URL Request,
